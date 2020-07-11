@@ -4,4 +4,5 @@ def square_array(array)
    puts number_squared
   end
 end
-square_array=[2,4,6]
+number_array=[2,4,6]
+square_array(number_array)
