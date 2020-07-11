@@ -3,6 +3,6 @@ def square_array(array)
    number_squared=number*number
    puts number_squared
    
-  en[]
+  end
 end
 square_array[1,2,3]
